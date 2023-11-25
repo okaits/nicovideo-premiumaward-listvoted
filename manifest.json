@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "ニコニコ動画アワード投票一覧確認プラグイン",
+    "version": "0.0.1",
+    "author": "okaits#7534",
+    "homepage_url": "https://www.okaits7534.net/",
+    "description": "ニコニコ動画アワードにて、投票した動画の一覧を一度に表示するプラグイン",
+    "action":{
+        "default_title": "ニコニコ動画アワード投票一覧確認プラグイン",
+        "default_popup": "popup.html"
+    },
+    "content_scripts": [
+        {
+            "run_at": "document_end",
+            "matches": ["https://site.nicovideo.jp/premiumaward/"],
+            "all_frames": true,
+            "js": ["background.js"]
+        }
+    ]
+}
