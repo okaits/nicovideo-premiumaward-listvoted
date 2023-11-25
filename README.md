@@ -17,5 +17,8 @@
 ## How to use - 使い方
 [ニコニコ動画アワードのページ](https://site.nicovideo.jp/premiumaward)に行って、右上の「ニ」アイコンを押すだけ！  
 
+## Certifications
+![works on my machine certification logo](https://blog.codinghorror.com/content/images/uploads/2007/03/6a0120a85dcdae970b0128776ff992970c-pi.png "works on my machine")
+
 ## License
 GNU General Public License Version 3
