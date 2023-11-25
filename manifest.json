@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "ニコニコ動画アワード投票一覧確認プラグイン",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "author": "okaits#7534",
     "homepage_url": "https://www.okaits7534.net/",
     "description": "ニコニコ動画アワードにて、投票した動画の一覧を一度に表示するプラグイン",
