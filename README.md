@@ -5,12 +5,11 @@
 動作確認: `Chromium 119.0.6045.159 (Official Build) snap (64 bit)`
 
 ## Installtion - インストール方法
-1. レポジトリをclone（ダウンロード）します。
-  （詳しいやり方に関してはググってください。）
+1. [Release](https://github.com/okaits/nicovideo-premiumaward-listvoted/releases/)を開き、一番上の`Source code (zip)`をクリックし、ダウンロード＆展開します。
 2. Chromeの拡張機能一覧（`chrome://extensions`）を開きます。
 3. 右上の「デベロッパーモード」をオンにします
 4. 左上の「パッケージ化されていない拡張機能を読み込み」をクリックします
-5. clone（ダウンロード）したフォルダーを選択します
+5. 展開したフォルダーを選択します
 
 > [!IMPORTANT]
 > 一度インストールしたら、削除するまでレポジトリのフォルダーを移動・削除しないでください。
